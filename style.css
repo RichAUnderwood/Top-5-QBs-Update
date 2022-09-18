@@ -1,0 +1,20 @@
+#josh {
+    color: darkblue;
+
+}
+#russ {
+    color: darkorange;
+}
+#arod {
+    color: darkgreen;
+}
+#pat {
+    color: red;
+}
+#tom {
+    color: darkgray;
+}
+.photo {
+    height: 300px;
+    width: 500px;
+}
